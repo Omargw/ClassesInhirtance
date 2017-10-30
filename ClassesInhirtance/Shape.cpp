@@ -3,7 +3,7 @@
 
 double Shape::calcArea()
 {
-	// 
+	// this function calculates the area of any shape 
 	return 2.5;
 
 }
