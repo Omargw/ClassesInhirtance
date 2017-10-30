@@ -10,7 +10,7 @@ double Shape::calcArea()
 
 double Square::calcArea()
 {
-	return width*lenth;
+	return width*lenth*9.2;
 }
 
 double Recangle::calcArea()
